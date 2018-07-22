@@ -32,7 +32,7 @@ Instead of writing this
 
 or this
 
-    timeout = 20 * 60  # 20 minutes
+    timeout = 20 * 60  # 20 minutes  
 
 we will write this
 
