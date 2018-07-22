@@ -1,7 +1,7 @@
 PEP: 9999
 Title: Measurement Abbreviations in Numeric Literals
 Author: Artyom Gavrichenkov <ximaera@gmail.com>,
-        Dmitry Nazarov <mail@nazarov.tech>
+Dmitry Nazarov <mail@nazarov.tech>
 Status: Draft
 Type: Standards Track
 Content-Type: text/x-rst

@@ -5,9 +5,10 @@ When contributing to this repository, please follow this guide.
 ## General rules
 
 1. Use [issues](https://github.com/nazarov-tech/pep9999/issues)
-to describe the work that needs to be done.
-1. While editing PEP, follow the style guide required by [PEP 12](https://www.python.org/dev/peps/pep-0012).
-1. Do not use any language other than English.
+to describe the work that needs to be done
+1. While editing PEP, follow the style guide required by [PEP 12](https://www.python.org/dev/peps/pep-0012)
+1. You should lint your changes. Install the Python requirements from `requirements.txt`, then `rst-lint README.rst`
+1. Do not use any language other than English
 
 ## Commit messages
 
