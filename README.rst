@@ -47,6 +47,13 @@ This will also work nicely in terms of different units::
     19200  
 
 
+More examples::  
+
+    connect(buffer = 4K, ..)  #  4096  
+    sleep(1 min)              #    60  
+    TOKEN_TTL = 8h            # 28800  
+    MAX_WEIGHT = 7.5 kg       #  7500  
+
 
 | TODO: more examples measurement abbreviations  
 | TODO: how this will work within string formatting  
