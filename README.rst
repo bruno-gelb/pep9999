@@ -55,7 +55,7 @@ More examples::
     MAX_WEIGHT = 7.5 kg       #  7500  
 
 
-| TODO: more examples measurement abbreviations  
+| TODO: more real world examples
 | TODO: how this will work within string formatting  
 
 
