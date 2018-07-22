@@ -36,17 +36,19 @@ or this::
 
 we will write this:: 
 
-    >>> timeout = 20min  
+    >>> timeout = 20 min  
     >>> print(timeout)  
     1200  
 
 This will also work nicely in terms of different units::  
 
-    >>> timeout = 5h + 20min  
+    >>> timeout = 5 h + 20 min  
     >>> print(timeout)  
     19200  
 
-| TODO: more measurement abbreviations  
+
+
+| TODO: more examples measurement abbreviations  
 | TODO: how this will work within string formatting  
 
 
