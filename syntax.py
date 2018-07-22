@@ -12,4 +12,4 @@ timeout = 3 * 60  # 3 hours
 timeout = 3h
 
 # TODO: how this will work within string formatting
-# TODO: more measurement units
+# TODO: more measurement abbreviations

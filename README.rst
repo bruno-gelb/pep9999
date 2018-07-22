@@ -1,5 +1,5 @@
 PEP: 9999
-Title: Measurement units in numeric literals
+Title: Measurement abbreviations in numeric literals
 Author: Artyom Gavrichenkov <ximaera@gmail.com>,
         Dmitry Nazarov <mail@nazarov.tech>
 Status: Draft
