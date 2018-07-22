@@ -25,7 +25,29 @@ TODO
 Syntax and semantics
 ====================
 
-TODO
+Instead of writing this
+
+    MINUTES = 60
+    timeout = 20 * MINUTES
+
+or this
+
+    timeout = 20 * 60  # 20 minutes
+
+we will write this
+
+    >>> timeout = 20min
+    >>> print(timeout)
+    1200
+
+This will also work nicely in terms of different units:
+
+    >>> timeout = 5h + 20min
+    >>> print(timeout)
+    19200
+
+TODO: more measurement abbreviations
+TODO: how this will work within string formatting
 
 
 References
