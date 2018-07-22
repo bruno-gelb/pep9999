@@ -53,7 +53,8 @@ This will also work nicely in terms of different units::
 References  
 ==========  
 
-TODO  
+.. [1] Proof of concept implementation  
+   (https://github.com/nazarov-tech/cpython/tree/measurement-abbreviations)  
 
 
 Copyright  
